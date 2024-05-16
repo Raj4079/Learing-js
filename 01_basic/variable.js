@@ -1,0 +1,15 @@
+const accountId=1234;
+let email="rajkumar";
+var pass = "1234";
+raj = "name";
+var a;
+var a;
+console.log(a);
+console.log(accountId);
+console.log(email);
+console.log(pass);
+// accountId=1212;
+// console.log(accountId);
+console.log(raj);
+raj = 123;
+console.table([accountId,email,pass,raj,a]);
